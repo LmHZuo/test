@@ -10,3 +10,6 @@ Git tracks changes.——test
 
 My stupid boss still prefers SVN.
 
+lal
+
+Creating a new branch is quick & simple.
